@@ -1,5 +1,5 @@
 // this is the equivalent of 'use' in the mongo shell
-db = db.getSiblingDB("carParts")
+db = db.getSiblingDB("fashionItem")
 
 // this first collection has a validator, your project only requires _one_
 db.createCollection("manufacturers", {
@@ -53,38 +53,3 @@ db.createCollection("manufacturers", {
 db.createCollection("customers")
 db.createCollection("parts")
 db.createCollection("orders")
-
-// your project does not require data, but here is some as an example 
-db.manufacturers.insertMany([
-  {
-    name: "Goodtime Auto",
-    address: {
-      street: "123 Madeup Road",
-      city: "Trenton",
-      state: "NJ",
-      zip: "08619"
-    },
-    phone: "6095555555"
-  },
-  {
-    name: "Badtime Auto",
-    address: {
-      additional: "The Rickety Shack",
-      street: "321 Legit Drive",
-      city: "Newark",
-      state: "NJ", 
-      zip: "07101"
-    },
-    phone: "7325555555"
-  },
-  {
-    name: "Freedom Car Parts",
-    address: {
-      street: "1 Buckleberry Ave",
-      city: "Camden",
-      state: "NJ",
-      zip: "08030",
-    },
-    phone: "1234567890"
-  }
-])
