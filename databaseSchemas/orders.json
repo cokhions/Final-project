@@ -1,0 +1,6 @@
+{"_id":{"$oid":"627e907afc48792805c2a89d"},"item_id":2,"customer_id":1,"quantity":1,"order_number":"165874809"}
+{"_id":{"$oid":"627e90eafc48792805c2a89e"},"item_id":2,"customer_id":2,"quantity":1,"order_number":"165877909"}
+{"_id":{"$oid":"627e90edfc48792805c2a89f"},"item_id":2,"customer_id":3,"quantity":1,"order_number":"165889109"}
+{"_id":{"$oid":"627e90effc48792805c2a8a0"},"item_id":3,"customer_id":4,"quantity":1,"order_number":"165871709"}
+{"_id":{"$oid":"627e90f2fc48792805c2a8a1"},"item_id":1,"customer_id":1,"quantity":1,"order_number":"165871909"}
+{"_id":{"$oid":"627e91bbfc48792805c2a8b0"},"item_id":1,"customer_id":4,"quantity":1,"order_number":"165878909"}

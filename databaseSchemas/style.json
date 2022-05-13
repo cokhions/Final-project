@@ -1,0 +1,3 @@
+{"_id":{"$oid":"627e8eb4fc48792805c2a888"},"item_id":1,"name":"Nike","description":"Nike, just do IT!","designer_id":1}
+{"_id":{"$oid":"627e8fbafc48792805c2a894"},"item_id":2,"name":"Addidas","description":"Lorem Ipsum","designer_id":2}
+{"_id":{"$oid":"627e8fbcfc48792805c2a895"},"item_id":3,"name":"Givenchy","description":"Lorem Ipsum Sample Text","designer_id":1}

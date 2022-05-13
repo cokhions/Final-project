@@ -1,0 +1,4 @@
+{"_id":{"$oid":"627e8b15fc48792805c2a873"},"customer_id":1,"name":"Joe Mike","street_address":"101, le quie address locale","city":"Texas","state":"Houston","zip":"17836","phone":"+13918801131"}
+{"_id":{"$oid":"627e8d78fc48792805c2a874"},"customer_id":2,"name":"Josh Johnny","street_address":"102, les quie address locale","city":"Texas","state":"Houston","zip":"37836","phone":"+13917881131"}
+{"_id":{"$oid":"627e8d7dfc48792805c2a875"},"customer_id":3,"name":"Simon Jack","street_address":"103, le quie address Eng","city":"California","state":"CA","zip":"17836","phone":"+13918903131"}
+{"_id":{"$oid":"627e8d80fc48792805c2a876"},"customer_id":4,"name":"Rachel Samuel","street_address":"301, le quie addresse locale","city":"Sanfracisco","state":"Claifornia","zip":"1896","phone":"+13718801131"}

@@ -1,0 +1,2 @@
+{"_id":{"$oid":"627e8e8ffc48792805c2a883"},"designer_id":1,"name":"Charles","street_address":"101, le quie address locale","city":"Texas","state":"Houston","zip":"17836","phone":"+13918801131"}
+{"_id":{"$oid":"627e9036fc48792805c2a898"},"designer_id":2,"name":"Adeola","street_address":"103, le quie address locale","city":"San","state":"Houston","zip":"13836","phone":"+13918803031"}
